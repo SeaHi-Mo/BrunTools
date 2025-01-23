@@ -1,3 +1,4 @@
+[中文教程](./README_zh.md)
 # BrunTools
 
 This is a specialized burn-in fixture designed for Wi-Fi modules that allows for firmware burning without soldering. You can install the module on the burn-in fixture and then use a serial port for firmware burning. The fixture also brings out the module's related GPIO pins to a header, in addition to each GPIO having an LED output, which you can use to test the functionality of the GPIO. Of course, if you don't want to use these LEDs, you can also use switches to turn them off.
